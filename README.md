@@ -39,7 +39,7 @@ https://kirubot.xyz
 - i.Download This
 - ii.Upload to vercel.com 
 - 3. bam new website for you u can edit these BUT GIVE CREDITS TO ME 
-- 4. edit in scirpt.js CONST API url to your own url currently its my bots url
+- 4. edit in scirpt.js CONST API url to your own url currently its my bots url yes
 ## Files
 
 ```text
