@@ -33,12 +33,12 @@ https://kirubot.xyz
 - Privacy Policy: https://kirubot.xyz/privacypolicy
 - Terms of Service: https://kirubot.xyz/termsofservice
 
-Credits
-Cat Bot Owner-Milekanos ( she gave me the idea to post a status website~ )
-How to Upload
-1.Download This
-2.Upload to vercel.com 
-3. bam new website for you u can edit these BUT GIVE CREDITS TO ME 
+## Credits
+- Cat Bot Owner-Milekanos ( she gave me the idea to post a status website~ )
+## How to Upload
+- 1.Download This
+- 2.Upload to vercel.com 
+- 3. bam new website for you u can edit these BUT GIVE CREDITS TO ME 
 
 ## Files
 
