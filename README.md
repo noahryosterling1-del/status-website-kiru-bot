@@ -40,7 +40,8 @@ https://kirubot.xyz
 - ii.Upload to vercel.com 
 - 3. bam new website for you u can edit these BUT GIVE CREDITS TO ME 
 - 4. edit in scirpt.js CONST API url to your own url currently its my bots url yes
-  5. sda
+  5. kiru is a discord bot DO not use this for other purposes
+     
 ## Files
 
 ```text
