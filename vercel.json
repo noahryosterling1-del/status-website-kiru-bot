@@ -7,6 +7,10 @@
     {
       "source": "/termsofservice",
       "destination": "/termsofservice.html"
+    },
+    {
+      "source": "/noahsterlingryo",
+      "destination": "/noahryosterling.html"
     }
   ]
 }
